@@ -1,0 +1,72 @@
+.header{
+	height: 100px;
+	background-color: skyblue
+	}
+
+
+
+.wrapper{
+
+	overflow: hidden;
+
+}
+.blog1{
+
+    float: left;
+	width: 50%;
+	height: 150px;
+	background-color:darkred ;
+
+}
+.contact2{
+  float: left;
+  width: 50%;
+  height: 150px;
+  background-color: lightpink;
+
+}
+
+.container{
+
+   overflow: hidden;
+
+
+}
+
+
+.item1{
+    float: left;
+	width: 33.33%;
+	height: 150px;
+	background-color: yellowgreen;
+}
+
+
+.item2{
+    float: left;
+	width: 33.33%;
+	height: 150px;
+	background-color: dimgrey;
+}
+
+
+.item3{
+    float: left;
+	width: 33.33%;
+	height: 150px;
+	background-color: green;
+}
+
+
+.box{
+
+	width: 50%;
+	height: 400px;
+	border: 0;
+}
+
+.footer{
+	height: 100px;
+    background-color: black;
+
+}
